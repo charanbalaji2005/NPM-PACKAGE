@@ -1,6 +1,6 @@
 # charan-auth-kit
 
-I have personal felt that all Mern web users are wasting their time on their Authentication pages for hours or days to it to make it easy i have created this NPM_PACKAGE for the Web-Developer.
+I have personally felt that all Mern web Developer are wasting their time on their Authentication pages like(Login and Register pages) for hours or even days to it to make it easy, I have created this NPM_PACKAGE for the Mern-Web-Developer. 
 
 > Scaffold a complete full-stack JWT auth system in seconds.
 > Express backend + React frontend — zero config, works with any Node ≥ 14.
